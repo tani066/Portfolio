@@ -40,7 +40,7 @@ const Hero = () => {
             <div className="w-full lg:w-1/2 lg:p-8 mt-30 ">
                 <div className="flex justify-center mt-[-120px]">
                     <motion.img 
-                    className="rounded-2xl"
+                    className="rounded-2xl w-3/4 sm:w-2/3 md:w-1/2 lg:w-[400px]"
                     // height={100}
                     width={400}
                     initial = {{x:100 , opacity:0}}
