@@ -51,7 +51,7 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
     projectCode:`https://github.com/tani066/My-Portfolio`,
-    projectLink:`https://food-del-app-to.netlify.app/`
+    projectLink:`https://portfolio-one-ecru-86.vercel.app/`
   },
   {
     title: "Capstone Project",
