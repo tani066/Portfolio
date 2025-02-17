@@ -2,6 +2,7 @@
 import { HERO_CONTENT } from "../constants"
 import image from '../assets/bgp.png'
 import { motion } from 'framer-motion'
+import TypedText from "./Frontend"
 
 const container = (delay) => ({
    hidden:{x:-100 , opacity:0},
@@ -28,7 +29,9 @@ const Hero = () => {
                     variants={container(0.5)}
                     initial="hidden"
                     animate="visible"
-                    className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 text-4xl tracking-tight text-transparent bg-clip-text">Frontend Developer</motion.span>
+                    className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 text-4xl tracking-tight text-transparent bg-clip-text"><TypedText /></motion.span>
+                    
+                    
 
                     <motion.p
                     variants={container(1)}
