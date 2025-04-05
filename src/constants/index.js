@@ -30,17 +30,17 @@ export const PROJECTS = [
     title: "Food-Delivery-App",
     image: project1,
     description:
-      'This project is about a responsive food delivery web app that allows users to browse, select, and order food seamlessly. The user-friendly UI, built with React and Tailwind CSS, ensures a modern and smooth experience. Dynamic product pages enable users to explore food items before adding them to the cart, while an intuitive cart system allows them to review and modify selections before checkout. I designed a payment flow UI for entering order details and completing transactions and integrated React Router for seamless navigation between home, product, cart, and login pages. Additionally, I developed a login page UI, laying the foundation for authentication (backend integration pending), and optimized the app for mobile responsiveness and performance to enhance the user experience.',
+      'This responsive food delivery web app lets users browse, select, and order food with ease. Built with React and Tailwind CSS, it features dynamic product pages, an intuitive cart system, and a smooth payment flow UI. React Router enables seamless navigation, and the mobile-optimized design ensures a great user experience. A login UI is also included, ready for future authentication integration.',
     technologies: ["HTML", "CSS", "React", "JavaScript"],
     projectCode: `https://github.com/tani066/Food-Del-App-React`,
     projectLink:`https://food-del-app-to.netlify.app/`
   },
   {
-    title: "Task Management App",
+    title: "Doctor Appointment App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    'An easy-to-use app that lets you quickly book appointments with doctors at nearby hospitals. Find available slots, compare specialties, and schedule your visit in just a few taps. You can filter doctors by specialty, ratings, and hospital proximity. Get instant confirmation and reminders for your appointments. The app also provides directions to the hospital and allows easy rescheduling or cancellation.',
+    technologies: ["HTML", "Tailwind-CSS", "React", "Firebase"],
     projectCode: `https://github.com/tani066/Food-Del-App-React`,
     projectLink:`https://food-del-app-to.netlify.app/`
   },
@@ -49,7 +49,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind"],
+    technologies: ["HTML", "CSS", "React", "Tailwind", "Framer-motion"],
     projectCode:`https://github.com/tani066/My-Portfolio`,
     projectLink:`https://portfolio-one-ecru-86.vercel.app/`
   },
@@ -59,12 +59,7 @@ export const PROJECTS = [
     description:
       `Company Frontend UI Design (First Semester Project)
 
-  Designed and developed a responsive and visually appealing UI for a company’s frontend using HTML and CSS.
-  Implemented smooth animations and transitions to enhance user experience and interactivity.
-  Created a modern and professional layout, suitable for corporate websites and business applications.
-  Developed responsive navigation menus, sections, and interactive elements for seamless user engagement.
-  Applied CSS animations and hover effects to improve aesthetics and usability.
-  Focused on clean code structure and maintainability, making it easy to integrate with backend systems.`,
+  Designed and developed a responsive, modern UI for a company's frontend using HTML and CSS. Implemented smooth animations, interactive elements, and clean layouts to enhance user experience and maintainability, ensuring seamless integration with backend systems.`,
     technologies: ["HTML", "CSS", "Framer-motion(animation)"],
     projectCode:`https://github.com/tani066/Capstone-Project`,
     projectLink:`https://tanishk-capstone.netlify.app/`
