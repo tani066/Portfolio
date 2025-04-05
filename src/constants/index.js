@@ -41,8 +41,8 @@ export const PROJECTS = [
     description:
     'An easy-to-use app that lets you quickly book appointments with doctors at nearby hospitals. Find available slots, compare specialties, and schedule your visit in just a few taps. You can filter doctors by specialty, ratings, and hospital proximity. Get instant confirmation and reminders for your appointments. The app also provides directions to the hospital and allows easy rescheduling or cancellation.',
     technologies: ["HTML", "Tailwind-CSS", "React", "Firebase"],
-    projectCode: `https://github.com/tani066/Food-Del-App-React`,
-    projectLink:`https://food-del-app-to.netlify.app/`
+    projectCode: `https://github.com/tani066/Hospital-Project`,
+    projectLink:`https://hospital-project-liart.vercel.app/`
   },
   {
     title: "Portfolio Website",
