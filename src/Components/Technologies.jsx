@@ -6,6 +6,7 @@ import { FaPython } from "react-icons/fa6";
 import { SiCss3 } from "react-icons/si";
 import { TbBrandTailwind } from "react-icons/tb";
 import { motion } from 'framer-motion'
+import { RiNextjsFill } from "react-icons/ri";
 
 const iconVarients = (duration) => ({
     initial:{y:-10},
@@ -67,7 +68,7 @@ const Technologies = () => {
             initial = 'initial'
             animate = 'animate'
             className='rounded-2xl border-4 border-neutral-800 p-4'>
-                <SiCss3 className='text-7xl text-blue-300' />
+                <RiNextjsFill className='text-7xl' />
             </motion.div>
             <motion.div
             variants={iconVarients(4)}
