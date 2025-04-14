@@ -1,5 +1,4 @@
 // import React from 'react'
-import logo from '../assets/My-logo.png'
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from 'react-icons/fa'
@@ -10,7 +9,8 @@ const Navbar = () => {
     
     <div className='mb-20 flex items-center justify-between py-6'>
         <div className='flex flex-shrink-0 items-center'>
-            <img src={logo} alt="" />
+            {/* <img src={logo} alt="" /> */}
+            <h2 className='text-3xl font-[cursive]'>Portfolio</h2>
         </div>
         <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
             <FaLinkedin onClick={() => window.open("https://www.linkedin.com/in/tanishk-agrawal-720535296/", "_blank", "noopener,noreferrer")} className='cursor-pointer'/>

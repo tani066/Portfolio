@@ -12,16 +12,16 @@ I'm a passionate frontend developer currently in my 1st year at Newton School of
 
 🔗 Explore my projects and feel free to connect with me! Let's build something amazing together.  `;
 
-export const ABOUT_TEXT = ` I'm frontend developer with a passion for creating dynamic and user-friendly web applications. I enjoy turning ideas into reality through clean, efficient, and visually appealing code.
+export const ABOUT_TEXT = ` I'm a frontend developer passionate about building dynamic, user-friendly web applications with clean and efficient code.
 
-💻 Technologies I work with:
-
+💻 Tech Stack
 Frontend: React, HTML, CSS, JavaScript, Tailwind CSS
 Backend & Others: Python
-Mindset: Strong problem-solving skills and a passion for tackling challenges in web development.
 
+🧠 I enjoy solving complex problems, collaborating on exciting projects, and constantly learning new technologies.
+🏸 Outside of coding, I stay active through badminton and basketball, bringing teamwork and strategy into my everyday life.
 
-🚀 I'm always open to learning, collaborating, and working on exciting projects. Let's connect and build something amazing! 🎯. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projectsand also love to play sports like badminton and basketball, which help me stay active and bring teamwork and strategy into my daily life.`;
+Let’s connect and build something amazing!`;
 
 
 
